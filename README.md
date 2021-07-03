@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Fabio Menjívar
-#### I am a Frontend student
+#### I am a Frontend student. I'm 16 years old.
 “Everything you can imagine is real.”― Pablo Picasso
 
 - 🌱 I’m currently learning HTML, CSS, Javascript & NodeJS
