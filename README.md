@@ -2,7 +2,7 @@
 #### I am a Frontend student
 “Everything you can imagine is real.”― Pablo Picasso
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT 
+- 🌱 I’m currently learning HTML, CSS, Javascript & NodeJS
 - 📫 How to reach me: https://fabiomenjivar.cf/
 - ⚡ Fun fact: I like gaming 
 
