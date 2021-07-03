@@ -4,6 +4,5 @@
 
 - 🌱 I’m currently learning HTML, CSS, Javascript & NodeJS
 - 📫 How to reach me: https://fabiomenjivar.cf/
-- ⚡ Fun fact: I like gaming 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawkmur&layout=compact)
