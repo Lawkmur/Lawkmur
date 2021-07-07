@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Fabio Menjívar
-#### I am a Frontend developer. English / Spanish
+#### I'm a Self-Taught & a Frontend student. English / Spanish
 “Everything you can imagine is real.”― Pablo Picasso
 
 - 🌱 I’m currently learning HTML, CSS, Javascript & NodeJS
