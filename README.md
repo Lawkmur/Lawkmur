@@ -25,4 +25,3 @@ My main programming languages are HTML & CSS. But I'm trying other languages ðŸ˜
 </div>
 </div>
 
-![Snake animation](https://github.com/DanielSalmeron3b/DanielSalmeron3b/blob/output/github-contribution-grid-snake.svg)
