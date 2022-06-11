@@ -19,7 +19,6 @@ I'm a self-taught programmer and my dream is to impact people's lives for the be
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/fabiomenjivar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/lawkmur/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-3fwfsN8qflxwzNJ26NEpw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
